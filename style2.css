@@ -1,0 +1,58 @@
+*{
+	font-family: Montserrat; 
+}
+
+/*services section*/
+#services{
+	margin: 30px;
+}
+
+.services_col{
+	padding: 20px;
+	text-align: center;
+}
+
+.services_content{
+	margin-top: 50px;
+}
+
+/*gallery section*/
+#gallery{
+	margin-top: 100px
+}
+
+button{
+	margin-top: 100px;
+}
+
+/*footer style*/
+footer{
+	margin-top: 50px;
+	background-color: black;
+}
+
+.footer-link{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.footer-link:hover{
+	color: yellow;
+}
+
+ul{
+	list-style: none;
+}
+
+img {
+	background-size: contain;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	opacity: 0.5;
+}
+
+img:hover{
+	opacity: 1;
+}
